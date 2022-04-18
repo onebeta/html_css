@@ -1,0 +1,494 @@
+	_______________________________________________
+ 	
+		= = = Curso de HTML e CSS = = = 
+	_______________________________________________
+
+
+	***************************
+		Capítulo 01
+	***************************
+
+|| Video 05 ||
+
+Dicas de material de referência.
+   * MDN
+   * W3C
+   * WHATWG Living Standard
+   * W3Schools
+   
+Link: <https://www.youtube.com/watch?v=0zLjVhHdOm8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=5>
+
+
+
+	***************************
+		Capítulo 02
+	***************************
+
+|| Video 07 ||
+
+Coceitos de funcionamento da internet.
+	* Como funciona um Modem
+	* O que um Gateway(Switch, Roteador, Modem, acess point)
+	* Servidor
+	* Descobrindo seu IP publico <www.iplocation.net>
+	* DNS (Servidor de endereços de domínio)
+	* Roteamento
+
+Link: <https://www.youtube.com/watch?v=nlO5hySqJFA&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=7> 
+
+|| Vídeo 08 ||
+
+Conceitos de funcionamento da internet.
+	* O que é domínio e hospedagem
+	* URL (TLD, GTLD, CCTLD).
+	* Sub-domínio.
+	* Caminho
+	
+Link: <https://www.youtube.com/watch?v=RFHSt1PCy0k&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=8>
+
+|| Vídeo 09 ||
+
+Diferença entre a HTML e as CSS.
+
+	* HTML: conteúdo(textos, imagens, vídeos, tabelas
+	* CSS: design(cores, sombras, tamanhos, posicionamento)
+	* JavaScript: interações(menus, animações, popups, validações)
+
+	-- Plug do Chrome(9:56) --
+           No chrome web store: web developer
+
+	* Anatomia da HMTL em exemplos(15:10)
+	   ° Tag, conteúdo, abertura e fechamento de tag: <h1> Títula 01 </h1> 
+	   ° Parâmetro, valor: <img src="foto.png" alt="Exemplo de foto.">
+	* Anatomia das CSS(18:26)
+	   ° Seletor, Declaração, propriedade, valor:
+	   h1{
+	      font-family: Arial;
+	      font-size: 20pt;
+	      color:red;
+             }
+	* Estrutura básica do documento HTML(20:30).
+	   <!DOCTYPE html>
+           <html>
+              <head>
+                 <meta charset="UTF-8">
+		 <meta name="viewport" 
+                  content="width=device-width,initial-scale=1.0"> 
+	      </head>
+              <body>
+                 <h1>Título</h1>
+                 <p> Olá mundo! </p
+	      </body> 
+           </html>
+	   
+Link: <https://www.youtube.com/watch?v=B4FU3NFRTDw&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=9>
+
+	***************************
+		Capítulo 03
+	***************************
+
+|| Video 10 ||
+
+Conceitos de Front-end, Back-end e fullstak
+
+|| Vídeo 11 ||
+
+Instalação de ferramentas.
+
+
+	***************************
+		Capítulo 04
+	***************************
+
+|| Vídeo 12 ||
+
+Primeiro código.
+	* Tags
+	   ° hr (Linha horizontal)
+	    
+Link: <https://www.youtube.com/watch?v=E6CdIawPTh0&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=12>
+
+
+	***************************
+		Capítulo 05
+	***************************
+
+|| Vídeo 13 ||
+
+Parágrafos e quebras de linhas
+ 	* <br> --> quebra de linha.
+	* Usar os símbolos <> dentro do contéudo: &lt; contéudo &gt;
+
+Link: <https://www.youtube.com/watch?v=f6NTJdtEFOc&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=13> 
+
+|| Vídeo 14 ||
+
+Outros Símbolos e emojis.
+	* Comentários: <!-- Exemplo de comentário -->
+	* Símbolos no material em PDF do capítulo 05
+	* Símbolos no W3 School e muito mais: <https://www.w3schools.com/charsets/ref_utf_symbols.asp>
+	   ° Inserindo simbolos: &(descrição do simbolo em inglês);
+	* Emojis no site: <https://emojipedia.org/>
+	   ° Como inserir emojis(9:27)
+	   ° Inserirndo emoji: &#x(código hexadecimal do emoji);	   		
+
+Link: <https://www.youtube.com/watch?v=nhMdFe3WwYc&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=14>
+
+	***************************
+		Capítulo 06
+	***************************
+
+||Vídeo 15 ||
+ 
+Uso de imagens e direitos autorais.
+
+	* Busca de imagens em Browsers do Google:
+	   ° Ferramentas --> Direito de uso --> Creative Commons
+	* Site com uso de imagens.
+	   ° Unplash
+	   ° Pexels.
+	   ° Muitos outros no material em pdf.
+Link: <https://www.youtube.com/watch?v=bDULqeGEvAw&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=15>
+
+|| Vídeo 16 ||
+
+Formatos de imagens.
+
+	* Formatos de imagens.
+	* JPEG, PNG, GIF.
+	* Tamanhos de imagens.
+	   ° Ferramentas --> Tamanhos --> PMG.
+	   ° De preferências a cor transparente --> Cor --> Transparente(.png)
+Link: <https://www.youtube.com/watch?v=xg-vHgLF0mI&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=16>
+
+
+|| Vídeo 17 ||
+
+Trabalhando com imagens no Gimp.
+
+	* Tamanho ideal para imagens em sites.
+	* Editando imagens no Gimp.
+Link: <https://www.youtube.com/watch?v=8rkuukKA8a4&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=17>
+
+|| Vídeo 18 ||
+
+Inserindo imagens.
+
+	* Editando imagens no Gimp.
+	* Tag de inserção de imagens img.
+           ° Parâmetro "src" e "alt".
+	* Carregando imagens na pasta raíz e em outra pasta.
+	
+Link: <https://www.youtube.com/watch?v=CwOmEetWMnU&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=18>
+
+|| Vídeo 19 ||
+
+Colocando Favicons.
+
+	* Arquivos de favicon com extensão *.ico
+	* Dicas de site de favicon.
+	   ° IconArchive. Site com imagens em vários formatos: png, ico, svg, dentro outros.
+	   ° Para construir: favicon.cc
+	   ° Editando imagens, emojis e texto para favicons: favicon.io
+	   ° Usando a tag Link.
+	   ° Parâmetros: href, rel, type. 
+	* Tag para uso de Favicon.
+	      --> <head> 
+	             <link rel="shortcut icon" href="icone_name.ico" type="image/x-icon"> 
+	            </head> 
+
+Link: <https://www.youtube.com/watch?v=1ZeettFfxys>
+
+	***************************
+		Capítulo 07
+	***************************
+
+|| Vídeo 20 ||
+
+Hierarquia de títulos.
+
+	* Usando tag de h1, h2, h3 ... h6.
+	* Parâmetro class.(no material em pdf)
+ 
+Link: <https://www.youtube.com/watch?v=aiOEBhozEOg&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=20>
+
+	***************************
+		Capítulo 08
+	***************************
+
+|| Vídeo 21 ||
+
+Falando sobre semântica das HTML.
+
+	* Tags obsoletas.
+
+Link: <https://www.youtube.com/watch?v=HaSgt1hK2Fs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=21>
+
+|| Vídeo 22 ||
+
+Negrito e itálico.
+
+	* Tag para negrito: <b> (não semântico)
+	* Tag para destaque: <strong>
+	* Tag para itálico: <i> (não semântico)
+	* Tag para ênfase: <em> 
+	* Lista de Tags em desuso estão no material em PDF.
+
+Link: <https://www.youtube.com/watch?v=T-d_hsO3hUI&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=22>
+
+|| Vídeo 23 ||
+
+Outras formatações.
+
+	* Tag de caneta marca texto: <mark>
+	   ° Para mudar a cor do marca texto usa-se a tecnologia css: style="background-color"
+	* Tag para texto pequeno: <small>
+	* Tag para riscar, deletar o texto: <del>(texto riscado)
+	* Tag de inserido: <ins> (linha marcada embaixo do texto)
+	* Tag de inserido: <u>   (linha marcada embaixo do texto)
+	* Tag de sobrescrito: <sup> (aqueles de números exponências)
+        * Tag de subscrito: <sub> (aquele usado em fórmulas químicas do 2 em H2O.	
+
+Link: <https://www.youtube.com/watch?v=8TgKFYkcO5Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=23>
+
+|| Vídeo 24 ||
+
+Citações e códigos
+
+	* Formatação para código-fonte: <code>(espaçamentos)
+	* Indentação para visualizar o código-fonte feito como no editor de texto: <pre>
+	* Colacar citações simples: <q>(entre aspas)
+	* Colacar citações em bloco: <blockquote> (trecho de comentários estilo revistas)
+	* Colacar citaçãoes com links externo, com parâmetro cite.
+	* Abreviações: <abbr>(significado das abreviações)
+	* Texto invertido: <bdo> com o parâmetro "dir" com ltr ou rtl para escolher a direção.
+
+Link: <https://www.youtube.com/watch?v=4ynvsrkamt8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=24>
+
+	***************************
+		Capítulo 09
+	***************************
+
+|| Vídeo 25 ||
+
+Listas
+	* Lista Ordenada: <ol>
+	* Item de lista: <li>
+	* Personalizar a ordenação com os parâmetros:
+	   ° "type" --> Tipos: numérico"1" | maiúscula "A" | minúscula "a" | romano maiúsc."I" e minúscula "i" 
+	   ° "start" --> Pode-se escolher o início da contagem
+	* Lista não ordenada: <ul>
+	* Personalizar os icones de início de parâgrafo:
+	   ° "type" --> Tipos: "disc" | "circle" | "square" | 	   
+
+Link: <https://www.youtube.com/watch?v=JlE0pzESf5g&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=25>
+
+|| Vídeo 26 ||
+
+Lista Mista e definições
+
+	* Criação de listas mistas.(Cobinando <ul> e <ol>)
+	* Lista de definição: lista de definição <dl>, o termo <dt> e a descrição <dd> 
+
+Link: <https://www.youtube.com/watch?v=Ez1kgIyoGuE&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=26>
+
+	***************************
+		Capítulo 10
+	***************************
+
+|| Vídeo 27 ||
+
+Âncoras(links) externos.
+
+	* Links externos ao site com a tag <a>: usando o parâmetro "href" para inserir a url. 
+	* Links externas sem sair da aba do site com o link de referência: 
+	   ° Parâmentro "target --> _blank e "rel" --> external. 
+
+Link: <https://www.youtube.com/watch?v=LeOVXQDsAIY&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=27>
+
+|| Vídeo 28 ||
+
+Âncoras(links) Internos
+
+	* Links internos com a tag <a> com o parâmetro "rel" --> next(valor)
+           ° Acessar uma segunda página interna com a tag <a> e parâmetro "rel" --> prev(valor). 
+             Usar o documentos index e segundários no mesmo diretório.  
+	* Valores dofollow e nofollow: <https://rockcontent.com/br/blog/links-dofollow-nofollow/>
+	* Link interno para caminho em pasta onde se encontra arquivo.
+	* Link interno para caminho em pasta diferente onde se encontra arquivo.
+	* Link externo, parâmetros: "target" --> _self, _blank; "rel" --> next, prev, external.
+        * Se estiver se referindo à pasta atual do servidor, pode usar ./ antes do nome do arquivo. Se quiser se referir à 
+          pasta imediatamente superior na hierarquia, use ../ para voltar um nível para a pasta mais externa.
+
+Link: <https://www.youtube.com/watch?v=LeLnlT-ZKw8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=28>
+
+|| Vídeo 29||
+
+Links para download.
+
+	* Link para download em pasta interna. <a href="">Links do download</a>
+	 ° Parâmetros: "download" | "type"
+	 ° Valores para "download" --> caminho para o link de download.
+	 ° Valores para "type" --> application/pdf
+	 ° Site para consulta de midias type: <https://www.iana.org/assignments/media-types/media-types.xhtml>
+	* Parâmetros da tag <a>: "download" e "type"
+
+Link: <https://www.youtube.com/watch?v=Jszz7M676y8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=29>
+
+|| Vídeo 30 ||
+
+Desáfio das redes sociais e das tags.
+
+Link: <https://www.youtube.com/watch?v=suL56Mdx22Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=30>
+
+
+	***************************
+		Capítulo 11
+	***************************
+
+|| Vídeo 31 ||
+
+Imagens Dinâmicas.
+
+	* Criando imagens básicas no Gimp.
+
+Link:<https://www.youtube.com/watch?v=E01LDVj0Rpg&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=31>
+
+|| Vídeo 32 ||
+
+Imagens que se adaptam.
+
+	* Tag <picture>: tipo uma condicional para escolha de um grupo de imagens.
+	* Tag <source>: são as opções da condicional para uma imagem.
+	   ° Parâmetro "media" se escolhe opções de tamanho para a condicional.(em px)
+           ° Parâmetro "srcset" se escolhe a imagem opcional à imagem padrão.(as opções)
+	   ° Parâmetro "type" para informar o tipo de media. 
+  	   ° Valores para o parâmetro media podem ser quanto a largura e se é máximo ou mínimo.
+	   ° A hierarquia de escolha está de baixo para cima com escolhas multiplas de imagens.
+
+Link: <https://www.youtube.com/watch?v=cAgkwPWE4hU&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=32>
+
+|| Vídeo 33 ||
+
+Inserindo aúdio em sites.
+
+	* Usando aúdios do You Tube gratuitos.
+	   --> Painel de controle do You Tube
+            --> You Tube Studio
+             --> Biblioteca de aúdio.
+	* Tag <audio> com os parâmetros "src", "autoplay" e "controls".
+	* Usando outros formatos para áudio: ".ogg" e "wav".
+	* Usando a tag <source> para inserir outros tipos de áudio por opção conforme o navegador.
+	   ° Parâmetros usados são "src" e o "type" para escolher o formato.
+	* Parâmetro "preload" para a tag <audio>.
+	   ° O valor "auto" o site só vai estar totalmente aberto apenas após carregar todo o áudio.
+           ° O valor "metadata" mostra as principais informações do arquivo: tamanho, data, duração, nome.
+	   ° O valor "none" não carrega nada ao menos se o usuário clicar nos arquivos.
+	   ° O valor "loop" reinicia o áudio novamento após seu termino.
+
+Link: <https://www.youtube.com/watch?v=4OZYsFl-J9s&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=33>
+
+|| Vídeo 34 ||
+
+Formato de vídeos.
+
+	* Dicas de de como usar o aplicativo HandBreak.
+	   ° Cnversão para ogv em: <https://www.online-convert.com/pt>
+	* Convertendo arquivo de vídeo: mp4, webm, ogv, m4v 
+
+Link: <https://www.youtube.com/watch?v=DjOSM72cYac&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=34>
+
+|| Vídeo 35 ||
+
+Inserindo vídeos no site hospedado localmente.
+
+	* <a href='https://br.freepik.com/fotos-vetores-gratis/fundo'>Fundo foto criado por valeria_aksakova - br.freepik.com</a>
+	* <a href='https://br.freepik.com/fotos-vetores-gratis/neve'>Neve foto criado por wirestock - br.freepik.com</a>
+	* Usando a tag <video> com parâmetros "src" para indicar o caminho e "widht" para dimensionar a visualização do vídeo.
+	   ° O parâmetro "controls" para mostrar os controles de play
+	* Usando a tag <source> e os parâmetros "src" para caminho do arquivo e "type" para informar o tipo de mídia.
+	* O parâmetro "poster" para deixar a thumb no vídeo.  
+
+Link: <https://www.youtube.com/watch?v=TCeyIwFGkYo&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=35>
+
+|| Vídeo 36 ||
+
+Inserindo vídeos no site com hospedagem externa.
+
+	* Inserindo os vídeos do You Tube.
+         --> compartilhar
+	  --> incorporar
+	* Inserindo os vídeos do Vimeo.
+         --> compartilhar
+	  --> incorporar	      
+
+Link: <https://www.youtube.com/watch?v=3hng-hmSv2Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=36>
+
+|| Vídeo 37 ||
+
+Desafio na criação de site com vídeos.
+
+Link: <https://www.youtube.com/watch?v=gqrySQQzvvQ&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=37>
+
+	***************************
+		Capítulo 12
+	***************************
+
+|| Vídeo 38 ||
+
+Primeiros passos com CSS: inline
+
+	* Abrindo as CSS dentro das tags.
+         ° Exemplo: <body style="background-color: blue";>
+	* Também pode-se colocar duas formatação na mesma tag.
+	 ° Exemplo: <h1 style="font-size: 40px; color: orange";>Exemplo</h1 
+	* Alguns estilo básicos de CSS
+         ° background-color: blue;
+	 ° color: orange; 
+	 ° text-align: justify;
+	 ° font-size: 40px;
+	 ° font-family: Arial, Helvetica, sans-serif;
+
+Link: <https://www.youtube.com/watch?v=byqhpuVpvEI&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=38>
+
+|| Vídeo 39 ||
+
+Estilo CSS internos.
+
+	* Abrindo a tag <style> na área de cabeçalho e introduzindo os seletores.
+	 ° <head>
+            <style>
+	      body{
+                  background-color: blue;
+                  font-size: 20px;
+              }
+	    </styele>
+	   </head>
+
+Link: <https://www.youtube.com/watch?v=fzyab4P2pn8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=39>
+
+|| Vídeo 40 ||
+
+Estilo CSS externos
+
+	* Usado para  dar estilo a várias páginas nos documentos HTML.
+	* Criar um documento CSS.
+	* Criar um link para a CSS usando um link no HTML dentro da tag <head>.
+	 --> <link rel="stylesheet" href="nome_do_documento.css"> 
+	* Esqueleto da CSS
+	 --> @charset "UTF-8";
+
+             body{
+	         background-color: blue;	
+             }
+             h1{
+               font-style: Brush Script MT, cursive;
+               color: orange;	
+             }
+             p{
+              text-align: center;	
+             }
+	* Hierarquia entre os estilo:
+	 ° inline -> interno -> externo
+
+Link: <https://www.youtube.com/watch?v=-i1JVMspDJQ&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=40>
